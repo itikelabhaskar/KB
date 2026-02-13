@@ -1,4 +1,4 @@
-# Knowledge Base (formerly EKIP)
+# Knowledge Base 
 
 **Internal Knowledge Assistant** — A RAG-based search platform that lets employees search across company documents (HR, Engineering, Sales) and get AI-generated answers with citations, respecting their role-based access permissions.
 
