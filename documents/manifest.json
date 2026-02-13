@@ -1,0 +1,74 @@
+[
+  {
+    "path": "hr/employee_handbook.md",
+    "department": "HR",
+    "classification": "public",
+    "title": "Employee Handbook"
+  },
+  {
+    "path": "hr/code_of_conduct.md",
+    "department": "HR",
+    "classification": "public",
+    "title": "Code of Conduct"
+  },
+  {
+    "path": "hr/onboarding_guide.md",
+    "department": "HR",
+    "classification": "public",
+    "title": "Onboarding Guide"
+  },
+  {
+    "path": "hr/compensation_policy.md",
+    "department": "HR",
+    "classification": "restricted",
+    "title": "Compensation Policy"
+  },
+  {
+    "path": "engineering/api_documentation.md",
+    "department": "Engineering",
+    "classification": "public",
+    "title": "API Documentation"
+  },
+  {
+    "path": "engineering/incident_report_5023.md",
+    "department": "Engineering",
+    "classification": "public",
+    "title": "Incident Report INC-5023"
+  },
+  {
+    "path": "engineering/architecture_overview.md",
+    "department": "Engineering",
+    "classification": "public",
+    "title": "Architecture Overview"
+  },
+  {
+    "path": "engineering/coding_standards.md",
+    "department": "Engineering",
+    "classification": "public",
+    "title": "Coding Standards"
+  },
+  {
+    "path": "sales/pricing_tiers.md",
+    "department": "Sales",
+    "classification": "public",
+    "title": "Pricing Tiers"
+  },
+  {
+    "path": "sales/customer_case_study.md",
+    "department": "Sales",
+    "classification": "public",
+    "title": "Customer Case Study - BigCorp"
+  },
+  {
+    "path": "sales/competitive_analysis.md",
+    "department": "Sales",
+    "classification": "public",
+    "title": "Competitive Analysis"
+  },
+  {
+    "path": "sales/sales_playbook.md",
+    "department": "Sales",
+    "classification": "restricted",
+    "title": "Sales Playbook"
+  }
+]
